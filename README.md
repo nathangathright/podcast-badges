@@ -35,6 +35,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | [Pocket Casts](https://pocketcasts.com/podcast-producers/#link-to-your-podcast) | ![Pocket Casts icon](icons/pocketcasts.svg) | ![Listen on Pocket Casts](badges/pocketcasts-light.svg) | ![Listen on Pocket Casts](badges/pocketcasts-dark.svg) |
 | [Podbean](https://www.podbean.com/site/default/badges) | ![Podbean icon](icons/podbean.svg) | ![Listen on Podbean](badges/podbean-light.svg) | ![Listen on Podbean](badges/podbean-dark.svg) |
 | Podcast Addict | ![Podcast Addict icon](icons/podcastaddict.svg) | ![Listen on Podcast Addict](badges/podcastaddict-light.svg) | ![Listen on Podcast Addict](badges/podcastaddict-dark.svg) |
+| Podcast App | ![Podcast App icon](icons/podcastapp.svg) | ![Listen on Podcast App](badges/podcastapp-light.svg) | ![Listen on Podcast App](badges/podcastapp-dark.svg) |
 | [Podcast Guru](https://podcastguru.io/podcast-guru-branding/) | ![Podcast Guru icon](icons/podcastguru.svg) | ![Listen on Podcast Guru](badges/podcastguru-light.svg) | ![Listen on Podcast Guru](badges/podcastguru-dark.svg) |
 | Podcast Index | ![Podcast Index icon](icons/podcastindex.svg) | ![Listen on Podcast Index](badges/podcastindex-light.svg) | ![Listen on Podcast Index](badges/podcastindex-dark.svg) |
 | Podcast Republic | ![Podcast Republic icon](icons/podcastrepublic.svg) | ![Listen on Podcast Republic](badges/podcastrepublic-light.svg) | ![Listen on Podcast Republic](badges/podcastrepublic-dark.svg) |
@@ -54,5 +55,4 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | [Sonnet](https://sonnet.fm/resources) | ![Sonnet icon](icons/sonnet.svg) | ![Listen on Sonnet](badges/sonnet-light.svg) | ![Listen on Sonnet](badges/sonnet-dark.svg) |
 | [Spotify](https://support.spotifyforpodcasters.com/hc/en-us/articles/360044285891-Sharing-your-podcast) | ![Spotify icon](icons/spotify.svg) | ![Listen on Spotify](badges/spotify-light.svg) | ![Listen on Spotify](badges/spotify-dark.svg) |
 | Stitcher | ![Stitcher icon](icons/stitcher.svg) | ![Listen on Stitcher](badges/stitcher-light.svg) | ![Listen on Stitcher](badges/stitcher-dark.svg) |
-| The Podcast App | ![The Podcast App icon](icons/thepodcastapp.svg) | ![Listen on The Podcast App](badges/thepodcastapp-light.svg) | ![Listen on The Podcast App](badges/thepodcastapp-dark.svg) |
 | TuneIn | ![TuneIn icon](icons/tunein.svg) | ![Listen on TuneIn](badges/tunein-light.svg) | ![Listen on TuneIn](badges/tunein-dark.svg) |
