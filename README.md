@@ -68,7 +68,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 
 ## Contributing
 
-If you’d like to submit new or improved icons, please fork the repo and create a pull request.
+If you’d like to submit new or improved icons, please [fork the repo](https://github.com/nathangathright/podcast-badges) and create a pull request.
 
 1. Fork the Project
 2. Create your Branch (`git checkout -b newicon/App-Name`)
