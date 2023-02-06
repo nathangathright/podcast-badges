@@ -1,6 +1,5 @@
 # Podcast Badges
 
-## About The Project
 When designing Podlink, I hunted down vector versions of all the podcast app icons, redrawing them in some cases, and tweaked them to fit my aesthtic, namely masking them within a [superellipse](https://en.wikipedia.org/wiki/Superellipse). Over the years, I’ve watched people appropriate my distinctive versions of the icons for their own purposes without credit. Since I don't really have a right to these icons, I can’t take it too personally. So I’ve decided to publish the collection of icons and badges. Please refer to the linked guidelines (when available) for official badges and usage guidelines. All trademarks are the property of their respective owners. 
 
 ## Badges
