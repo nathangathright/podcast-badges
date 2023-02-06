@@ -1,5 +1,7 @@
 # Podcast Badges
-The distributed nature of podcasting makes linking to a show on a given platform complex. Some platforms provide [API methods](#api-methods) to determine exact URLs, some provide inexact search APIs, and some provide nothing at all. But many platforms support routes based on foreign keys like `appleID`, `feedUrl`, or `podcastindexID` for shows and `GUID` or `audioFileUrl` for episodes. These keys let us construct URLs with confidence.
+When designing Podlink, I hunted down vector versions of all the podcast app icons, redrawing them in some cases, and tweaked them to fit my aesthtic, namely masking them within a [superellipse](https://en.wikipedia.org/wiki/Superellipse). Since then, I’ve watched people appropriate my distinctive versions of the icons for their own purposes. Given that we’re talking about other companies’ trademarks, I have no standing to call them a thief.
+
+Here’s my current collection in icon and badge form.
 
 
 | App | Icon | Light Badge | Dark Badge |
