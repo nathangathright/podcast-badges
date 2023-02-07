@@ -21,6 +21,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | Downcast | ![Downcast icon](icons/downcast.svg) | ![Listen on Downcast](badges/downcast-light.svg) | ![Listen on Downcast](badges/downcast-dark.svg) |
 | Fathom | ![Fathom icon](icons/fathom.svg) | ![Listen on Fathom](badges/fathom-light.svg) | ![Listen on Fathom](badges/fathom-dark.svg) |
 | Fountain | ![Fountain icon](icons/fountain.svg) | ![Listen on Fountain](badges/fountain-light.svg) | ![Listen on Fountain](badges/fountain-dark.svg) |
+| Gaana | ![Gaana icon](icons/gaana.svg) | ![Listen on Gaana](badges/gaana-light.svg) | ![Listen on Gaana](badges/gaana-dark.svg) |
 | Global Player | ![Global Player icon](icons/globalplayer.svg) | ![Listen on Global Player](badges/globalplayer-light.svg) | ![Listen on Global Player](badges/globalplayer-dark.svg) |
 | [Goodpods](https://goodpods.com/badges) | ![Goodpods icon](icons/goodpods.svg) | ![Listen on Goodpods](badges/goodpods-light.svg) | ![Listen on Goodpods](badges/goodpods-dark.svg) |
 | [Google Podcasts](https://support.google.com/podcast-publishers/answer/9798635?hl=en) | ![Google Podcasts icon](icons/googlepodcasts.svg) | ![Listen on Google Podcasts](badges/googlepodcasts-light.svg) | ![Listen on Google Podcasts](badges/googlepodcasts-dark.svg) |
