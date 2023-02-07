@@ -56,6 +56,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | Samsung Free | ![Samsung Free icon](icons/samsungfree.svg) | ![Listen on Samsung Free](badges/samsungfree-light.svg) | ![Listen on Samsung Free](badges/samsungfree-dark.svg) |
 | Snipd | ![Snipd icon](icons/snipd.svg) | ![Listen on Snipd](badges/snipd-light.svg) | ![Listen on Snipd](badges/snipd-dark.svg) |
 | [Sonnet](https://sonnet.fm/resources) | ![Sonnet icon](icons/sonnet.svg) | ![Listen on Sonnet](badges/sonnet-light.svg) | ![Listen on Sonnet](badges/sonnet-dark.svg) |
+| Soundcloud | ![Soundcloud icon](icons/soundcloud.svg) | ![Listen on Soundcloud](badges/soundcloud-light.svg) | ![Listen on Soundcloud](badges/soundcloud-dark.svg) |
 | [Spotify](https://support.spotifyforpodcasters.com/hc/en-us/articles/360044285891-Sharing-your-podcast) | ![Spotify icon](icons/spotify.svg) | ![Listen on Spotify](badges/spotify-light.svg) | ![Listen on Spotify](badges/spotify-dark.svg) |
 | Stitcher | ![Stitcher icon](icons/stitcher.svg) | ![Listen on Stitcher](badges/stitcher-light.svg) | ![Listen on Stitcher](badges/stitcher-dark.svg) |
 | TuneIn | ![TuneIn icon](icons/tunein.svg) | ![Listen on TuneIn](badges/tunein-light.svg) | ![Listen on TuneIn](badges/tunein-dark.svg) |
