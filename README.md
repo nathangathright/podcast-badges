@@ -53,6 +53,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | [Podvine](https://podvine.com/link-a-podcast) | ![Podvine icon](icons/podvine.svg) | ![Listen on Podvine](badges/podvine-light.svg) | ![Listen on Podvine](badges/podvine-dark.svg) |
 | [RadioPublic](https://about.radiopublic.com/2017/06/28/how-to-set-up-your-listen-with-radiopublic-badge/) | ![RadioPublic icon](icons/radiopublic.svg) | ![Listen on RadioPublic](badges/radiopublic-light.svg) | ![Listen on RadioPublic](badges/radiopublic-dark.svg) |
 | Rephonic | ![Rephonic icon](icons/rephonic.svg) | ![Listen on Rephonic](badges/rephonic-light.svg) | ![Listen on Rephonic](badges/rephonic-dark.svg) |
+| Resso | ![Resso icon](icons/resso.svg) | ![Listen on Resso](badges/resso-light.svg) | ![Listen on Resso](badges/resso-dark.svg) |
 | RSS | ![RSS icon](icons/rss.svg) | ![Listen on RSS](badges/rss-light.svg) | ![Listen on RSS](badges/rss-dark.svg) |
 | Samsung Free | ![Samsung Free icon](icons/samsungfree.svg) | ![Listen on Samsung Free](badges/samsungfree-light.svg) | ![Listen on Samsung Free](badges/samsungfree-dark.svg) |
 | Snipd | ![Snipd icon](icons/snipd.svg) | ![Listen on Snipd](badges/snipd-light.svg) | ![Listen on Snipd](badges/snipd-dark.svg) |
