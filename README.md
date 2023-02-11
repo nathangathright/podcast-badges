@@ -60,6 +60,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | [Sonnet](https://sonnet.fm/resources) | ![Sonnet icon](icons/sonnet.svg) | ![Listen on Sonnet](badges/sonnet-light.svg) | ![Listen on Sonnet](badges/sonnet-dark.svg) |
 | Soundcloud | ![Soundcloud icon](icons/soundcloud.svg) | ![Listen on Soundcloud](badges/soundcloud-light.svg) | ![Listen on Soundcloud](badges/soundcloud-dark.svg) |
 | [Spotify](https://support.spotifyforpodcasters.com/hc/en-us/articles/360044285891-Sharing-your-podcast) | ![Spotify icon](icons/spotify.svg) | ![Listen on Spotify](badges/spotify-light.svg) | ![Listen on Spotify](badges/spotify-dark.svg) |
+| [Steno.fm](https://help.steno.fm/#icon-and-badges) | ![Steno.fm icon](icons/stenofm.svg) | ![Listen on Steno.fm](badges/stenofm-light.svg) | ![Listen on Steno.fm](badges/stenofm-dark.svg) |
 | Stitcher | ![Stitcher icon](icons/stitcher.svg) | ![Listen on Stitcher](badges/stitcher-light.svg) | ![Listen on Stitcher](badges/stitcher-dark.svg) |
 | TuneIn | ![TuneIn icon](icons/tunein.svg) | ![Listen on TuneIn](badges/tunein-light.svg) | ![Listen on TuneIn](badges/tunein-dark.svg) |
 | YouTube | ![YouTube icon](icons/youtube.svg) | ![Listen on YouTube](badges/youtube-light.svg) | ![Listen on YouTube](badges/youtube-dark.svg) |
