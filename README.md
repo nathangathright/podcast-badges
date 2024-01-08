@@ -42,7 +42,6 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | Podcast Index | ![Podcast Index icon](icons/podcastindex.svg) | ![Listen on Podcast Index](badges/podcastindex-light.svg) | ![Listen on Podcast Index](badges/podcastindex-dark.svg) |
 | Podcast Republic | ![Podcast Republic icon](icons/podcastrepublic.svg) | ![Listen on Podcast Republic](badges/podcastrepublic-light.svg) | ![Listen on Podcast Republic](badges/podcastrepublic-dark.svg) |
 | [Podchaser](https://support.podchaser.com/en/articles/5253592-generating-a-podchaser-badge-for-your-podcast) | ![Podchaser icon](icons/podchaser.svg) | ![Listen on Podchaser](badges/podchaser-light.svg) | ![Listen on Podchaser](badges/podchaser-dark.svg) |
-| TrueFans | ![TrueFans icon](icons/truefans.svg) | ![Listen on TrueFans](badges/truefans-light.svg) | ![Listen on TrueFans](badges/truefans-dark.svg) |
 | Podfriend | ![Podfriend icon](icons/podfriend.svg) | ![Listen on Podfriend](badges/podfriend-light.svg) | ![Listen on Podfriend](badges/podfriend-dark.svg) |
 | [Podhero](https://podhero.com/mediakit/) | ![Podhero icon](icons/podhero.svg) | ![Listen on Podhero](badges/podhero-light.svg) | ![Listen on Podhero](badges/podhero-dark.svg) |
 | Podimo | ![Podimo icon](icons/podimo.svg) | ![Listen on Podimo](badges/podimo-light.svg) | ![Listen on Podimo](badges/podimo-dark.svg) |
@@ -63,5 +62,6 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | [Spotify](https://support.spotifyforpodcasters.com/hc/en-us/articles/360044285891-Sharing-your-podcast) | ![Spotify icon](icons/spotify.svg) | ![Listen on Spotify](badges/spotify-light.svg) | ![Listen on Spotify](badges/spotify-dark.svg) |
 | [Steno.fm](https://help.steno.fm/#icon-and-badges) | ![Steno.fm icon](icons/stenofm.svg) | ![Listen on Steno.fm](badges/stenofm-light.svg) | ![Listen on Steno.fm](badges/stenofm-dark.svg) |
 | Stitcher | ![Stitcher icon](icons/stitcher.svg) | ![Listen on Stitcher](badges/stitcher-light.svg) | ![Listen on Stitcher](badges/stitcher-dark.svg) |
+| TrueFans | ![TrueFans icon](icons/truefans.svg) | ![Listen on TrueFans](badges/truefans-light.svg) | ![Listen on TrueFans](badges/truefans-dark.svg) |
 | TuneIn | ![TuneIn icon](icons/tunein.svg) | ![Listen on TuneIn](badges/tunein-light.svg) | ![Listen on TuneIn](badges/tunein-dark.svg) |
 | YouTube | ![YouTube icon](icons/youtube.svg) | ![Listen on YouTube](badges/youtube-light.svg) | ![Listen on YouTube](badges/youtube-dark.svg) |
