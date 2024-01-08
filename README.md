@@ -6,7 +6,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 
 | App | Icon | Light Badge | Dark Badge |
 | --- | ---- | ----------- | ---------- |
-| [Amazon Music](https://www.amazon.com/b?tag=paidinsi-20&node=21421695011&geniuslink=true) | ![Amazon Music icon](icons/amazonmusic.svg) | ![Listen on Amazon Music](badges/amazonmusic-light.svg) | ![Listen on Amazon Music](badges/amazonmusic-dark.svg) |
+| [Amazon Music](https://podcasters.amazon.com/promotional-tools) | ![Amazon Music icon](icons/amazonmusic.svg) | ![Listen on Amazon Music](badges/amazonmusic-light.svg) | ![Listen on Amazon Music](badges/amazonmusic-dark.svg) |
 | [Antennapod](https://github.com/AntennaPod/Branding) | ![Antennapod icon](icons/antennapod.svg) | ![Listen on Antennapod](badges/antennapod-light.svg) | ![Listen on Antennapod](badges/antennapod-dark.svg) |
 | Anytime Player | ![Anytime Player icon](icons/anytimeplayer.svg) | ![Listen on Anytime Player](badges/anytimeplayer-light.svg) | ![Listen on Anytime Player](badges/anytimeplayer-dark.svg) |
 | [Apple Podcasts](https://www.breaker.audio/i/brand) | ![Apple Podcasts icon](icons/applepodcasts.svg) | ![Listen on Apple Podcasts](badges/applepodcasts-light.svg) | ![Listen on Apple Podcasts](badges/applepodcasts-dark.svg) |
