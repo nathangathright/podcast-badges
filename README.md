@@ -8,7 +8,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | --- | ---- | ----------- | ---------- |
 | [Amazon Music](https://podcasters.amazon.com/promotional-tools) | ![Amazon Music icon](icons/amazonmusic.svg) | ![Listen on Amazon Music](badges/amazonmusic-light.svg) | ![Listen on Amazon Music](badges/amazonmusic-dark.svg) |
 | [Antennapod](https://github.com/AntennaPod/Branding) | ![Antennapod icon](icons/antennapod.svg) | ![Listen on Antennapod](badges/antennapod-light.svg) | ![Listen on Antennapod](badges/antennapod-dark.svg) |
-| Anytime Player | ![Anytime Player icon](icons/anytimeplayer.svg) | ![Listen on Anytime Player](badges/anytimeplayer-light.svg) | ![Listen on Anytime Player](badges/anytimeplayer-dark.svg) |
+| [Anytime Player](https://github.com/amugofjava/anytime_podcast_player?tab=readme-ov-file#open-with-anytime-links) | ![Anytime Player icon](icons/anytimeplayer.svg) | ![Listen on Anytime Player](badges/anytimeplayer-light.svg) | ![Listen on Anytime Player](badges/anytimeplayer-dark.svg) |
 | [Apple Podcasts](https://www.breaker.audio/i/brand) | ![Apple Podcasts icon](icons/applepodcasts.svg) | ![Listen on Apple Podcasts](badges/applepodcasts-light.svg) | ![Listen on Apple Podcasts](badges/applepodcasts-dark.svg) |
 | [Audacy](https://affiliatesupport.radio.com/hc/en-us/articles/360024406634-Audacy-Listen-Now-Badges) | ![Audacy icon](icons/audacy.svg) | ![Listen on Audacy](badges/audacy-light.svg) | ![Listen on Audacy](badges/audacy-dark.svg) |
 | [Breaker](https://www.breaker.audio/i/brand) | ![Breaker icon](icons/breaker.svg) | ![Listen on Breaker](badges/breaker-light.svg) | ![Listen on Breaker](badges/breaker-dark.svg) |
@@ -25,15 +25,15 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | Global Player | ![Global Player icon](icons/globalplayer.svg) | ![Listen on Global Player](badges/globalplayer-light.svg) | ![Listen on Global Player](badges/globalplayer-dark.svg) |
 | [Goodpods](https://goodpods.com/badges) | ![Goodpods icon](icons/goodpods.svg) | ![Listen on Goodpods](badges/goodpods-light.svg) | ![Listen on Goodpods](badges/goodpods-dark.svg) |
 | [Google Podcasts](https://support.google.com/podcast-publishers/answer/9798635?hl=en) | ![Google Podcasts icon](icons/googlepodcasts.svg) | ![Listen on Google Podcasts](badges/googlepodcasts-light.svg) | ![Listen on Google Podcasts](badges/googlepodcasts-dark.svg) |
-| gPodder | ![gPodder icon](icons/gpodder.svg) | ![Listen on gPodder](badges/gpodder-light.svg) | ![Listen on gPodder](badges/gpodder-dark.svg) |
+| [gPodder](https://gpodder.net/publisher/link/) | ![gPodder icon](icons/gpodder.svg) | ![Listen on gPodder](badges/gpodder-light.svg) | ![Listen on gPodder](badges/gpodder-dark.svg) |
 | [iHeartRadio](https://brand.iheart.com/podcastlogo) | ![iHeartRadio icon](icons/iheartradio.svg) | ![Listen on iHeartRadio](badges/iheartradio-light.svg) | ![Listen on iHeartRadio](badges/iheartradio-dark.svg) |
 | iTunes | ![iTunes icon](icons/itunes.svg) | ![Listen on iTunes](badges/itunes-light.svg) | ![Listen on iTunes](badges/itunes-dark.svg) |
 | iVoox | ![iVoox icon](icons/ivoox.svg) | ![Listen on iVoox](badges/ivoox-light.svg) | ![Listen on iVoox](badges/ivoox-dark.svg) |
-| Listen Notes | ![Listen Notes icon](icons/listennotes.svg) | ![Listen on Listen Notes](badges/listennotes-light.svg) | ![Listen on Listen Notes](badges/listennotes-dark.svg) |
-| Luminary | ![Luminary icon](icons/luminary.svg) | ![Listen on Luminary](badges/luminary-light.svg) | ![Listen on Luminary](badges/luminary-dark.svg) |
+| [Listen Notes](https://brand-assets.listennotes.com/) | ![Listen Notes icon](icons/listennotes.svg) | ![Listen on Listen Notes](badges/listennotes-light.svg) | ![Listen on Listen Notes](badges/listennotes-dark.svg) |
+| [Luminary](https://newsroom.luminarypodcasts.com/brandassets) | ![Luminary icon](icons/luminary.svg) | ![Listen on Luminary](badges/luminary-light.svg) | ![Listen on Luminary](badges/luminary-dark.svg) |
 | Moon FM | ![Moon FM icon](icons/moonfm.svg) | ![Listen on Moon FM](badges/moonfm-light.svg) | ![Listen on Moon FM](badges/moonfm-dark.svg) |
 | [Overcast](https://overcast.fm/podcasterinfo) | ![Overcast icon](icons/overcast.svg) | ![Listen on Overcast](badges/overcast-light.svg) | ![Listen on Overcast](badges/overcast-dark.svg) |
-| Pandora | ![Pandora icon](icons/pandora.svg) | ![Listen on Pandora](badges/pandora-light.svg) | ![Listen on Pandora](badges/pandora-dark.svg) |
+| [Pandora](https://developer.pandora.com/docs/developer-resources/brand-assets/) | ![Pandora icon](icons/pandora.svg) | ![Listen on Pandora](badges/pandora-light.svg) | ![Listen on Pandora](badges/pandora-dark.svg) |
 | Player FM | ![Player FM icon](icons/playerfm.svg) | ![Listen on Player FM](badges/playerfm-light.svg) | ![Listen on Player FM](badges/playerfm-dark.svg) |
 | [Pocket Casts](https://pocketcasts.com/podcast-producers/#link-to-your-podcast) | ![Pocket Casts icon](icons/pocketcasts.svg) | ![Listen on Pocket Casts](badges/pocketcasts-light.svg) | ![Listen on Pocket Casts](badges/pocketcasts-dark.svg) |
 | [Podbean](https://www.podbean.com/site/default/badges) | ![Podbean icon](icons/podbean.svg) | ![Listen on Podbean](badges/podbean-light.svg) | ![Listen on Podbean](badges/podbean-dark.svg) |
@@ -60,7 +60,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | Samsung Free | ![Samsung Free icon](icons/samsungfree.svg) | ![Listen on Samsung Free](badges/samsungfree-light.svg) | ![Listen on Samsung Free](badges/samsungfree-dark.svg) |
 | Snipd | ![Snipd icon](icons/snipd.svg) | ![Listen on Snipd](badges/snipd-light.svg) | ![Listen on Snipd](badges/snipd-dark.svg) |
 | [Sonnet](https://sonnet.fm/resources) | ![Sonnet icon](icons/sonnet.svg) | ![Listen on Sonnet](badges/sonnet-light.svg) | ![Listen on Sonnet](badges/sonnet-dark.svg) |
-| Soundcloud | ![Soundcloud icon](icons/soundcloud.svg) | ![Listen on Soundcloud](badges/soundcloud-light.svg) | ![Listen on Soundcloud](badges/soundcloud-dark.svg) |
+| [Soundcloud](https://press.soundcloud.com/media_kits/228462/) | ![Soundcloud icon](icons/soundcloud.svg) | ![Listen on Soundcloud](badges/soundcloud-light.svg) | ![Listen on Soundcloud](badges/soundcloud-dark.svg) |
 | [Spotify](https://support.spotifyforpodcasters.com/hc/en-us/articles/360044285891-Sharing-your-podcast) | ![Spotify icon](icons/spotify.svg) | ![Listen on Spotify](badges/spotify-light.svg) | ![Listen on Spotify](badges/spotify-dark.svg) |
 | [Steno.fm](https://help.steno.fm/#icon-and-badges) | ![Steno.fm icon](icons/stenofm.svg) | ![Listen on Steno.fm](badges/stenofm-light.svg) | ![Listen on Steno.fm](badges/stenofm-dark.svg) |
 | Stitcher | ![Stitcher icon](icons/stitcher.svg) | ![Listen on Stitcher](badges/stitcher-light.svg) | ![Listen on Stitcher](badges/stitcher-dark.svg) |
