@@ -1,15 +1,15 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_29_348)">
-<path d="M3.36627 28.6337C0.910867 26.1783 0 22.1783 0 16C0 9.82167 0.910867 5.82167 3.36627 3.36627C5.82167 0.910867 9.82167 0 16 0C22.1783 0 26.1783 0.910867 28.6337 3.36627C31.0891 5.82167 32 9.82167 32 16C32 22.1783 31.0891 26.1783 28.6337 28.6337C26.1783 31.0891 22.1783 32 16 32C9.82167 32 5.82167 31.0891 3.36627 28.6337Z" fill="url(#paint0_linear_29_348)"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M16.3438 31.999C16.2299 31.9997 16.1153 32 16 32C14.2201 32 12.621 31.9244 11.1875 31.7581V17.3125H6.40625V12.1562H14.3438C15.4483 12.1562 16.3438 13.0517 16.3438 14.1562V31.999ZM13.5312 10.875C15.0846 10.875 16.3438 9.6158 16.3438 8.0625C16.3438 6.5092 15.0846 5.25 13.5312 5.25C11.9779 5.25 10.7188 6.5092 10.7188 8.0625C10.7188 9.6158 11.9779 10.875 13.5312 10.875Z" fill="white"/>
-</g>
-<defs>
-<linearGradient id="paint0_linear_29_348" x1="16" y1="0" x2="16" y2="32" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FF9800"/>
-<stop offset="1" stop-color="#FF6600"/>
-</linearGradient>
-<clipPath id="clip0_29_348">
-<rect width="32" height="32" fill="white"/>
-</clipPath>
-</defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none" viewBox="0 0 32 32">
+  <g clip-path="url(#a)">
+    <path fill="url(#b)" d="M3.366 28.634C.911 26.178 0 22.178 0 16S.91 5.822 3.366 3.366C5.822.911 9.822 0 16 0s10.178.91 12.634 3.366C31.089 5.822 32 9.822 32 16s-.91 10.178-3.366 12.634C26.178 31.089 22.178 32 16 32s-10.178-.91-12.634-3.366Z"/>
+    <path fill="#fff" fill-rule="evenodd" d="M16.344 31.999 16 32c-1.78 0-3.379-.076-4.813-.242V17.313h-4.78v-5.157h7.937a2 2 0 0 1 2 2V32ZM13.53 10.875a2.813 2.813 0 1 0 0-5.625 2.813 2.813 0 0 0 0 5.625Z" clip-rule="evenodd"/>
+  </g>
+  <defs>
+    <linearGradient id="b" x1="16" x2="16" y1="0" y2="32" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF9800"/>
+      <stop offset="1" stop-color="#F60"/>
+    </linearGradient>
+    <clipPath id="a">
+      <path fill="#fff" d="M0 0h32v32H0z"/>
+    </clipPath>
+  </defs>
 </svg>
