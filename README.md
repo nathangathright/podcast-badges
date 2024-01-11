@@ -20,13 +20,14 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | [Deezer](https://deezerbrand.com/) | ![Deezer icon](icons/deezer.svg) | ![Listen on Deezer](badges/deezer-light.svg) | ![Listen on Deezer](badges/deezer-dark.svg) |
 | Downcast | ![Downcast icon](icons/downcast.svg) | ![Listen on Downcast](badges/downcast-light.svg) | ![Listen on Downcast](badges/downcast-dark.svg) |
 | Fathom | ![Fathom icon](icons/fathom.svg) | ![Listen on Fathom](badges/fathom-light.svg) | ![Listen on Fathom](badges/fathom-dark.svg) |
-| Fountain | ![Fountain icon](icons/fountain.svg) | ![Listen on Fountain](badges/fountain-light.svg) | ![Listen on Fountain](badges/fountain-dark.svg) |
+| [Fountain](https://www.fountain.fm/podcaster-guide) | ![Fountain icon](icons/fountain.svg) | ![Listen on Fountain](badges/fountain-light.svg) | ![Listen on Fountain](badges/fountain-dark.svg) |
 | Gaana | ![Gaana icon](icons/gaana.svg) | ![Listen on Gaana](badges/gaana-light.svg) | ![Listen on Gaana](badges/gaana-dark.svg) |
 | Global Player | ![Global Player icon](icons/globalplayer.svg) | ![Listen on Global Player](badges/globalplayer-light.svg) | ![Listen on Global Player](badges/globalplayer-dark.svg) |
 | [Goodpods](https://goodpods.com/badges) | ![Goodpods icon](icons/goodpods.svg) | ![Listen on Goodpods](badges/goodpods-light.svg) | ![Listen on Goodpods](badges/goodpods-dark.svg) |
 | [Google Podcasts](https://support.google.com/podcast-publishers/answer/9798635?hl=en) | ![Google Podcasts icon](icons/googlepodcasts.svg) | ![Listen on Google Podcasts](badges/googlepodcasts-light.svg) | ![Listen on Google Podcasts](badges/googlepodcasts-dark.svg) |
 | gPodder | ![gPodder icon](icons/gpodder.svg) | ![Listen on gPodder](badges/gpodder-light.svg) | ![Listen on gPodder](badges/gpodder-dark.svg) |
 | [iHeartRadio](https://brand.iheart.com/podcastlogo) | ![iHeartRadio icon](icons/iheartradio.svg) | ![Listen on iHeartRadio](badges/iheartradio-light.svg) | ![Listen on iHeartRadio](badges/iheartradio-dark.svg) |
+| iTunes | ![iTunes icon](icons/itunes.svg) | ![Listen on iTunes](badges/itunes-light.svg) | ![Listen on iTunes](badges/itunes-dark.svg) |
 | iVoox | ![iVoox icon](icons/ivoox.svg) | ![Listen on iVoox](badges/ivoox-light.svg) | ![Listen on iVoox](badges/ivoox-dark.svg) |
 | Listen Notes | ![Listen Notes icon](icons/listennotes.svg) | ![Listen on Listen Notes](badges/listennotes-light.svg) | ![Listen on Listen Notes](badges/listennotes-dark.svg) |
 | Luminary | ![Luminary icon](icons/luminary.svg) | ![Listen on Luminary](badges/luminary-light.svg) | ![Listen on Luminary](badges/luminary-dark.svg) |
@@ -63,6 +64,8 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | [Spotify](https://support.spotifyforpodcasters.com/hc/en-us/articles/360044285891-Sharing-your-podcast) | ![Spotify icon](icons/spotify.svg) | ![Listen on Spotify](badges/spotify-light.svg) | ![Listen on Spotify](badges/spotify-dark.svg) |
 | [Steno.fm](https://help.steno.fm/#icon-and-badges) | ![Steno.fm icon](icons/stenofm.svg) | ![Listen on Steno.fm](badges/stenofm-light.svg) | ![Listen on Steno.fm](badges/stenofm-dark.svg) |
 | Stitcher | ![Stitcher icon](icons/stitcher.svg) | ![Listen on Stitcher](badges/stitcher-light.svg) | ![Listen on Stitcher](badges/stitcher-dark.svg) |
+| [Subscribe by Email](https://www.subscribebyemail.com/podcasters/) | ![Subscribe by Email icon](icons/subscribebyemail.svg) | ![Listen on Subscribe by Email](badges/subscribebyemail-light.svg) | ![Listen on Subscribe by Email](badges/subscribebyemail-dark.svg) |
+| [Subscribe on Android](https://www.subscribeonandroid.com/podcasters/) | ![Subscribe on Android icon](icons/subscribeonandroid.svg) | ![Listen on Subscribe on Android](badges/subscribeonandroid-light.svg) | ![Listen on Subscribe on Android](badges/subscribeonandroid-dark.svg) |
 | TrueFans | ![TrueFans icon](icons/truefans.svg) | ![Listen on TrueFans](badges/truefans-light.svg) | ![Listen on TrueFans](badges/truefans-dark.svg) |
 | TuneIn | ![TuneIn icon](icons/tunein.svg) | ![Listen on TuneIn](badges/tunein-light.svg) | ![Listen on TuneIn](badges/tunein-dark.svg) |
 | [YouTube](https://support.google.com/youtube/answer/13379217?hl=en) | ![YouTube icon](icons/youtube.svg) | ![Listen on YouTube](badges/youtube-light.svg) | ![Listen on YouTube](badges/youtube-dark.svg) |
