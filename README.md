@@ -68,5 +68,6 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | [Subscribe on Android](https://www.subscribeonandroid.com/podcasters/) | ![Subscribe on Android icon](icons/subscribeonandroid.svg) | ![Listen on Subscribe on Android](badges/subscribeonandroid-light.svg) | ![Listen on Subscribe on Android](badges/subscribeonandroid-dark.svg) |
 | TrueFans | ![TrueFans icon](icons/truefans.svg) | ![Listen on TrueFans](badges/truefans-light.svg) | ![Listen on TrueFans](badges/truefans-dark.svg) |
 | TuneIn | ![TuneIn icon](icons/tunein.svg) | ![Listen on TuneIn](badges/tunein-light.svg) | ![Listen on TuneIn](badges/tunein-dark.svg) |
+| Wondery | ![Wondery icon](icons/wondery.svg) | ![Listen on Wondery](badges/wondery-light.svg) | ![Listen on Wondery](badges/wondery-dark.svg) |
 | [YouTube](https://support.google.com/youtube/answer/13379217?hl=en) | ![YouTube icon](icons/youtube.svg) | ![Listen on YouTube](badges/youtube-light.svg) | ![Listen on YouTube](badges/youtube-dark.svg) |
 | [YouTube Music](https://support.google.com/youtube/answer/13379217?hl=en) | ![YouTube Music icon](icons/youtubemusic.svg) | ![Listen on YouTube Music](badges/youtubemusic-light.svg) | ![Listen on YouTube Music](badges/youtubemusic-dark.svg) |
