@@ -58,6 +58,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | Resso | ![Resso icon](icons/resso.svg) | ![Listen on Resso](badges/resso-light.svg) | ![Listen on Resso](badges/resso-dark.svg) |
 | RSS | ![RSS icon](icons/rss.svg) | ![Listen on RSS](badges/rss-light.svg) | ![Listen on RSS](badges/rss-dark.svg) |
 | Samsung Free | ![Samsung Free icon](icons/samsungfree.svg) | ![Listen on Samsung Free](badges/samsungfree-light.svg) | ![Listen on Samsung Free](badges/samsungfree-dark.svg) |
+| SiriusXM | ![SiriusXM icon](icons/siriusxm.svg) | ![Listen on SiriusXM](badges/siriusxm-light.svg) | ![Listen on SiriusXM](badges/siriusxm-dark.svg) |
 | Snipd | ![Snipd icon](icons/snipd.svg) | ![Listen on Snipd](badges/snipd-light.svg) | ![Listen on Snipd](badges/snipd-dark.svg) |
 | [Sonnet](https://sonnet.fm/resources) | ![Sonnet icon](icons/sonnet.svg) | ![Listen on Sonnet](badges/sonnet-light.svg) | ![Listen on Sonnet](badges/sonnet-dark.svg) |
 | [Soundcloud](https://press.soundcloud.com/media_kits/228462/) | ![Soundcloud icon](icons/soundcloud.svg) | ![Listen on Soundcloud](badges/soundcloud-light.svg) | ![Listen on Soundcloud](badges/soundcloud-dark.svg) |
