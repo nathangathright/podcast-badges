@@ -1,17 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" fill="none" viewBox="0 0 33 33">
-  <path fill="url(#a)" fill-rule="evenodd" d="M12.11.955h9.686c3.214 0 4.819 0 6.55.547a6.797 6.797 0 0 1 4.062 4.063c.547 1.73.547 3.335.547 6.549V21.8c0 3.213 0 4.818-.547 6.549a6.798 6.798 0 0 1-4.063 4.063c-1.73.547-3.335.547-6.549.547H12.11c-3.213 0-4.818 0-6.549-.547a6.798 6.798 0 0 1-4.063-4.063c-.546-1.73-.546-3.336-.546-6.55v-9.685c0-3.214 0-4.819.546-6.55a6.794 6.794 0 0 1 4.067-4.062C7.295.955 8.9.955 12.114.955" clip-rule="evenodd"/>
-  <path fill="url(#b)" fill-rule="evenodd" d="M17 4.335c6.996 0 12.667 5.671 12.667 12.667 0 6.995-5.671 12.667-12.667 12.667-6.996 0-12.667-5.672-12.667-12.667 0-6.996 5.671-12.667 12.667-12.667Z" clip-rule="evenodd"/>
-  <path fill="url(#c)" fill-rule="evenodd" d="m20.147 21.28 2.123 2.945a9.001 9.001 0 1 0-10.563.015l2.125-2.947a5.367 5.367 0 1 1 6.315-.013Zm-.983-4.342a2.165 2.165 0 1 0-4.331 0 2.165 2.165 0 0 0 4.33 0Z" clip-rule="evenodd"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none" viewBox="0 0 32 32">
+  <path fill="url(#a)" fill-rule="evenodd" d="M3.366 28.634C.911 26.178 0 22.178 0 16S.91 5.822 3.366 3.366C5.822.911 9.822 0 16 0s10.178.91 12.634 3.366C31.089 5.822 32 9.822 32 16s-.91 10.178-3.366 12.634C26.178 31.089 22.178 32 16 32s-10.178-.91-12.634-3.366Z" clip-rule="evenodd"/>
+  <path fill="url(#b)" fill-rule="evenodd" d="M16 3.335c6.996 0 12.667 5.671 12.667 12.667 0 6.995-5.671 12.667-12.667 12.667-6.996 0-12.667-5.672-12.667-12.667C3.333 9.006 9.004 3.335 16 3.335Z" clip-rule="evenodd"/>
+  <path fill="url(#c)" fill-rule="evenodd" d="m19.147 20.28 2.123 2.945a9.001 9.001 0 1 0-10.563.015l2.125-2.947a5.367 5.367 0 1 1 6.315-.013Zm-.983-4.342a2.165 2.165 0 1 0-4.331 0 2.165 2.165 0 0 0 4.33 0Z" clip-rule="evenodd"/>
   <defs>
-    <linearGradient id="a" x1=".952" x2=".952" y1=".955" y2="32.959" gradientUnits="userSpaceOnUse">
+    <linearGradient id="a" x1="0" x2="0" y1="0" y2="32" gradientUnits="userSpaceOnUse">
       <stop stop-color="#00CCBF"/>
       <stop offset="1" stop-color="#00B265"/>
     </linearGradient>
-    <linearGradient id="b" x1="4.335" x2="4.335" y1="4.318" y2="29.657" gradientUnits="userSpaceOnUse">
+    <linearGradient id="b" x1="3.335" x2="3.335" y1="3.318" y2="28.657" gradientUnits="userSpaceOnUse">
       <stop stop-color="#151515"/>
       <stop offset="1" stop-color="#353535"/>
     </linearGradient>
-    <linearGradient id="c" x1="7.954" x2="7.954" y1="7.945" y2="24.246" gradientUnits="userSpaceOnUse">
+    <linearGradient id="c" x1="6.954" x2="6.954" y1="6.945" y2="23.246" gradientUnits="userSpaceOnUse">
       <stop offset=".3" stop-color="#fff"/>
       <stop offset="1" stop-color="#9CC0B7"/>
     </linearGradient>
