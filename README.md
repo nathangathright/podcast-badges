@@ -11,6 +11,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | [Anytime Player](https://github.com/amugofjava/anytime_podcast_player?tab=readme-ov-file#open-with-anytime-links) | ![Anytime Player icon](icons/anytimeplayer.svg) | ![Listen on Anytime Player](badges/anytimeplayer-light.svg) | ![Listen on Anytime Player](badges/anytimeplayer-dark.svg) |
 | [Apple Podcasts](https://www.breaker.audio/i/brand) | ![Apple Podcasts icon](icons/applepodcasts.svg) | ![Listen on Apple Podcasts](badges/applepodcasts-light.svg) | ![Listen on Apple Podcasts](badges/applepodcasts-dark.svg) |
 | [Audacy](https://affiliatesupport.radio.com/hc/en-us/articles/360024406634-Audacy-Listen-Now-Badges) | ![Audacy icon](icons/audacy.svg) | ![Listen on Audacy](badges/audacy-light.svg) | ![Listen on Audacy](badges/audacy-dark.svg) |
+| [Audible](https://www.audible.com/about/newsroom/audible-assets) | ![Audible icon](icons/audible.svg) | ![Listen on Audible](badges/audible-light.svg) | ![Listen on Audible](badges/audible-dark.svg) |
 | [Breaker](https://www.breaker.audio/i/brand) | ![Breaker icon](icons/breaker.svg) | ![Listen on Breaker](badges/breaker-light.svg) | ![Listen on Breaker](badges/breaker-dark.svg) |
 | Bullhorn | ![Bullhorn icon](icons/bullhorn.svg) | ![Listen on Bullhorn](badges/bullhorn-light.svg) | ![Listen on Bullhorn](badges/bullhorn-dark.svg) |
 | Castamatic | ![Castamatic icon](icons/castamatic.svg) | ![Listen on Castamatic](badges/castamatic-light.svg) | ![Listen on Castamatic](badges/castamatic-dark.svg) |
