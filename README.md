@@ -26,6 +26,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | Global Player | ![Global Player icon](icons/globalplayer.svg) | ![Listen on Global Player](badges/globalplayer-light.svg) | ![Listen on Global Player](badges/globalplayer-dark.svg) |
 | [Goodpods](https://goodpods.com/badges) | ![Goodpods icon](icons/goodpods.svg) | ![Listen on Goodpods](badges/goodpods-light.svg) | ![Listen on Goodpods](badges/goodpods-dark.svg) |
 | [Google Podcasts](https://support.google.com/podcast-publishers/answer/9798635?hl=en) | ![Google Podcasts icon](icons/googlepodcasts.svg) | ![Listen on Google Podcasts](badges/googlepodcasts-light.svg) | ![Listen on Google Podcasts](badges/googlepodcasts-dark.svg) |
+| Hark | ![Hark icon](icons/hark.svg) | ![Listen on Hark](badges/hark-light.svg) | ![Listen on Hark](badges/hark-dark.svg) |
 | [gPodder](https://gpodder.net/publisher/link/) | ![gPodder icon](icons/gpodder.svg) | ![Listen on gPodder](badges/gpodder-light.svg) | ![Listen on gPodder](badges/gpodder-dark.svg) |
 | [iHeartRadio](https://brand.iheart.com/podcastlogo) | ![iHeartRadio icon](icons/iheartradio.svg) | ![Listen on iHeartRadio](badges/iheartradio-light.svg) | ![Listen on iHeartRadio](badges/iheartradio-dark.svg) |
 | iTunes | ![iTunes icon](icons/itunes.svg) | ![Listen on iTunes](badges/itunes-light.svg) | ![Listen on iTunes](badges/itunes-dark.svg) |
