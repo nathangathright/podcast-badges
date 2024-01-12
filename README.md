@@ -33,6 +33,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | iVoox | ![iVoox icon](icons/ivoox.svg) | ![Listen on iVoox](badges/ivoox-light.svg) | ![Listen on iVoox](badges/ivoox-dark.svg) |
 | [Listen Notes](https://brand-assets.listennotes.com/) | ![Listen Notes icon](icons/listennotes.svg) | ![Listen on Listen Notes](badges/listennotes-light.svg) | ![Listen on Listen Notes](badges/listennotes-dark.svg) |
 | [Luminary](https://newsroom.luminarypodcasts.com/brandassets) | ![Luminary icon](icons/luminary.svg) | ![Listen on Luminary](badges/luminary-light.svg) | ![Listen on Luminary](badges/luminary-dark.svg) |
+| MixerBox | ![MixerBox icon](icons/mixerbox.svg) | ![Listen on MixerBox](badges/mixerbox-light.svg) | ![Listen on MixerBox](badges/mixerbox-dark.svg) |
 | Moon FM | ![Moon FM icon](icons/moonfm.svg) | ![Listen on Moon FM](badges/moonfm-light.svg) | ![Listen on Moon FM](badges/moonfm-dark.svg) |
 | [Overcast](https://overcast.fm/podcasterinfo) | ![Overcast icon](icons/overcast.svg) | ![Listen on Overcast](badges/overcast-light.svg) | ![Listen on Overcast](badges/overcast-dark.svg) |
 | [Pandora](https://developer.pandora.com/docs/developer-resources/brand-assets/) | ![Pandora icon](icons/pandora.svg) | ![Listen on Pandora](badges/pandora-light.svg) | ![Listen on Pandora](badges/pandora-dark.svg) |
