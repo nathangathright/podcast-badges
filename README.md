@@ -66,6 +66,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | [Sonnet](https://sonnet.fm/resources) | ![Sonnet icon](icons/sonnet.svg) | ![Listen on Sonnet](badges/sonnet-light.svg) | ![Listen on Sonnet](badges/sonnet-dark.svg) |
 | [Soundcloud](https://press.soundcloud.com/media_kits/228462/) | ![Soundcloud icon](icons/soundcloud.svg) | ![Listen on Soundcloud](badges/soundcloud-light.svg) | ![Listen on Soundcloud](badges/soundcloud-dark.svg) |
 | [Spotify](https://support.spotifyforpodcasters.com/hc/en-us/articles/360044285891-Sharing-your-podcast) | ![Spotify icon](icons/spotify.svg) | ![Listen on Spotify](badges/spotify-light.svg) | ![Listen on Spotify](badges/spotify-dark.svg) |
+| Spreaker | ![Spreaker icon](icons/spreaker.svg) | ![Listen on Spreaker](badges/spreaker-light.svg) | ![Listen on Spreaker](badges/spreaker-dark.svg) |
 | [Steno.fm](https://help.steno.fm/#icon-and-badges) | ![Steno.fm icon](icons/stenofm.svg) | ![Listen on Steno.fm](badges/stenofm-light.svg) | ![Listen on Steno.fm](badges/stenofm-dark.svg) |
 | Stitcher | ![Stitcher icon](icons/stitcher.svg) | ![Listen on Stitcher](badges/stitcher-light.svg) | ![Listen on Stitcher](badges/stitcher-dark.svg) |
 | [Subscribe by Email](https://www.subscribebyemail.com/podcasters/) | ![Subscribe by Email icon](icons/subscribebyemail.svg) | ![Listen on Subscribe by Email](badges/subscribebyemail-light.svg) | ![Listen on Subscribe by Email](badges/subscribebyemail-dark.svg) |
