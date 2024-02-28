@@ -9,7 +9,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | [Amazon Music](https://podcasters.amazon.com/promotional-tools) | ![Amazon Music icon](icons/amazonmusic.svg) | ![Listen on Amazon Music](badges/amazonmusic-light.svg) | ![Listen on Amazon Music](badges/amazonmusic-dark.svg) |
 | [Antennapod](https://github.com/AntennaPod/Branding) | ![Antennapod icon](icons/antennapod.svg) | ![Listen on Antennapod](badges/antennapod-light.svg) | ![Listen on Antennapod](badges/antennapod-dark.svg) |
 | [Anytime Player](https://github.com/amugofjava/anytime_podcast_player?tab=readme-ov-file#open-with-anytime-links) | ![Anytime Player icon](icons/anytimeplayer.svg) | ![Listen on Anytime Player](badges/anytimeplayer-light.svg) | ![Listen on Anytime Player](badges/anytimeplayer-dark.svg) |
-| [Apple Podcasts](https://www.breaker.audio/i/brand) | ![Apple Podcasts icon](icons/applepodcasts.svg) | ![Listen on Apple Podcasts](badges/applepodcasts-light.svg) | ![Listen on Apple Podcasts](badges/applepodcasts-dark.svg) |
+| [Apple Podcasts](https://www.breaker.audio/i/brand) | ![Apple Podcasts icon](icons/apple.svg) | ![Listen on Apple Podcasts](badges/apple-light.svg) | ![Listen on Apple Podcasts](badges/apple-dark.svg) |
 | [Audacy](https://affiliatesupport.radio.com/hc/en-us/articles/360024406634-Audacy-Listen-Now-Badges) | ![Audacy icon](icons/audacy.svg) | ![Listen on Audacy](badges/audacy-light.svg) | ![Listen on Audacy](badges/audacy-dark.svg) |
 | [Audible](https://www.audible.com/about/newsroom/audible-assets) | ![Audible icon](icons/audible.svg) | ![Listen on Audible](badges/audible-light.svg) | ![Listen on Audible](badges/audible-dark.svg) |
 | [Breaker](https://www.breaker.audio/i/brand) | ![Breaker icon](icons/breaker.svg) | ![Listen on Breaker](badges/breaker-light.svg) | ![Listen on Breaker](badges/breaker-dark.svg) |
@@ -26,7 +26,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | Gaana | ![Gaana icon](icons/gaana.svg) | ![Listen on Gaana](badges/gaana-light.svg) | ![Listen on Gaana](badges/gaana-dark.svg) |
 | Global Player | ![Global Player icon](icons/globalplayer.svg) | ![Listen on Global Player](badges/globalplayer-light.svg) | ![Listen on Global Player](badges/globalplayer-dark.svg) |
 | [Goodpods](https://goodpods.com/badges) | ![Goodpods icon](icons/goodpods.svg) | ![Listen on Goodpods](badges/goodpods-light.svg) | ![Listen on Goodpods](badges/goodpods-dark.svg) |
-| [Google Podcasts](https://support.google.com/podcast-publishers/answer/9798635?hl=en) | ![Google Podcasts icon](icons/googlepodcasts.svg) | ![Listen on Google Podcasts](badges/googlepodcasts-light.svg) | ![Listen on Google Podcasts](badges/googlepodcasts-dark.svg) |
+| [Google Podcasts](https://support.google.com/podcast-publishers/answer/9798635?hl=en) | ![Google Podcasts icon](icons/google.svg) | ![Listen on Google Podcasts](badges/google-light.svg) | ![Listen on Google Podcasts](badges/google-dark.svg) |
 | Hark | ![Hark icon](icons/hark.svg) | ![Listen on Hark](badges/hark-light.svg) | ![Listen on Hark](badges/hark-dark.svg) |
 | Jam | ![Jam icon](icons/jam.svg) | ![Listen on Jam](badges/jam-light.svg) | ![Listen on Jam](badges/jam-dark.svg) |
 | [gPodder](https://gpodder.net/publisher/link/) | ![gPodder icon](icons/gpodder.svg) | ![Listen on gPodder](badges/gpodder-light.svg) | ![Listen on gPodder](badges/gpodder-dark.svg) |

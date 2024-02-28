@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none" viewBox="0 0 32 32">
-  <path fill="url(#a)" fill-rule="evenodd" d="M3.366 28.634C.911 26.178 0 22.178 0 16S.91 5.822 3.366 3.366C5.822.911 9.822 0 16 0s10.178.91 12.634 3.366C31.089 5.822 32 9.822 32 16s-.91 10.178-3.366 12.634C26.178 31.089 22.178 32 16 32s-10.178-.91-12.634-3.366Z" clip-rule="evenodd"/>
-  <path fill="#fff" fill-rule="evenodd" d="M8 6c-1.985 0-2 .895-2 2s.015 2 2 2c8.374 0 14 5.627 14 14 0 1.105.015 2 2 2s2-.895 2-2C26 13.402 18.598 6 8 6ZM6 23.333c0-1.473.02-2.666 2.667-2.666 2.646 0 2.666 1.193 2.666 2.666 0 1.473-.02 2.667-2.666 2.667S6 24.806 6 23.333Zm0-8.666c0-1.105.015-2 2-2 5.228 0 11.333 2.968 11.333 11.333 0 1.105-.015 2-2 2-1.984 0-2-.895-2-2 0-6.619-5.128-7.333-7.333-7.333-1.985 0-2-.896-2-2Z" clip-rule="evenodd"/>
-  <defs>
-    <linearGradient id="a" x1="0" x2="0" y1="0" y2="32" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FA9C39"/>
-      <stop offset="1" stop-color="#E26C2D"/>
-    </linearGradient>
-  </defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none" viewBox="0 0 32 32"><defs><linearGradient id="b" x1="0" x2="0" y1="0" y2="32" gradientUnits="userSpaceOnUse"><stop stop-color="#FA9C39"/><stop offset="1" stop-color="#E26C2D"/></linearGradient></defs><mask id="a" width="32" height="32" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha"><path fill="#000" d="M16 0c12.357 0 16 3.643 16 16s-3.643 16-16 16S0 28.357 0 16 3.643 0 16 0Z"/></mask><g mask="url(#a)"><path fill="#F18935" d="M0 0h32v32H0z"/><path fill="url(#b)" d="M0 0h32v32H0z"/><path fill="#fff" fill-rule="evenodd" d="M8 6c-1.985 0-2 .895-2 2s.015 2 2 2c8.374 0 14 5.627 14 14 0 1.105.015 2 2 2s2-.895 2-2C26 13.402 18.598 6 8 6ZM6 23.333c0-1.473.02-2.666 2.667-2.666 2.646 0 2.666 1.193 2.666 2.666 0 1.473-.02 2.667-2.666 2.667S6 24.806 6 23.333Zm0-8.666c0-1.105.015-2 2-2 5.228 0 11.333 2.968 11.333 11.333 0 1.105-.015 2-2 2-1.984 0-2-.895-2-2 0-6.619-5.128-7.333-7.333-7.333-1.985 0-2-.896-2-2Z" clip-rule="evenodd"/></g></svg>

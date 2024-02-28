@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none" viewBox="0 0 32 32">
-  <path fill="#fff" d="M3.366 28.634C.911 26.178 0 22.178 0 16S.91 5.822 3.366 3.366C5.822.911 9.822 0 16 0s10.178.91 12.634 3.366C31.089 5.822 32 9.822 32 16s-.91 10.178-3.366 12.634C26.178 31.089 22.178 32 16 32s-10.178-.91-12.634-3.366Z"/>
-  <path fill="url(#a)" d="M17.512 6.333H8.833v19.334h5.189a.873.873 0 0 0 .872-.873v-3.712h1.3c6.348 0 8.947-3.574 8.947-7.76-.01-5.17-3.935-6.989-7.63-6.989Z"/>
-  <defs>
-    <linearGradient id="a" x1="5.319" x2="22.327" y1="21.478" y2="7.207" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#00A3F1"/>
-      <stop offset=".44" stop-color="#0090F8"/>
-      <stop offset="1" stop-color="#006EFF"/>
-    </linearGradient>
-  </defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none" viewBox="0 0 32 32"><defs><linearGradient id="b" x1="5.319" x2="22.327" y1="21.478" y2="7.206" gradientUnits="userSpaceOnUse"><stop stop-color="#00A3F1"/><stop offset=".44" stop-color="#0090F8"/><stop offset="1" stop-color="#006EFF"/></linearGradient></defs><mask id="a" width="32" height="32" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha"><path fill="#000" d="M16 0c12.357 0 16 3.643 16 16s-3.643 16-16 16S0 28.357 0 16 3.643 0 16 0Z"/></mask><g mask="url(#a)"><path fill="#fff" d="M0 0h32v32H0z"/><path fill="url(#b)" d="M17.512 6.333H8.833v19.334h5.189a.873.873 0 0 0 .872-.873v-3.713h1.3c6.348 0 8.947-3.573 8.947-7.759-.01-5.17-3.935-6.989-7.63-6.989Z"/></g></svg>

@@ -1,16 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none" viewBox="0 0 32 32">
-  <g clip-path="url(#a)">
-    <path fill="url(#b)" d="M3.366 28.634C.911 26.178 0 22.178 0 16S.91 5.822 3.366 3.366C5.822.911 9.822 0 16 0s10.178.91 12.634 3.366C31.089 5.822 32 9.822 32 16s-.91 10.178-3.366 12.634C26.178 31.089 22.178 32 16 32s-10.178-.91-12.634-3.366Z"/>
-    <path fill="#fff" d="M21.11 18.44v1.331h-4.443V18.44h4.444Zm0-3.33h-4.443v1.33h4.444v-1.33Zm0-3.11h-4.443v1.331h4.444V12ZM9.555 16.665v-1.552h-2.89v-1.78h2.89V12h-4.24v7.771h1.35v-3.106h2.89ZM26.444 12h-4.443v1.331h4.444V12Zm0 3.11h-4.443v1.33h4.444v-1.33Zm-4.443 3.33v1.331h4.444V18.44H22Zm-6.29-3.774A2.67 2.67 0 0 0 13.045 12h-2.378v7.771H12v-6.438h1.045a1.335 1.335 0 0 1 0 2.667h-.45l.668 1.324 1.237 2.447h1.336l-1.423-2.816a2.667 2.667 0 0 0 1.298-2.289Z"/>
-  </g>
-  <defs>
-    <radialGradient id="b" cx="0" cy="0" r="1" gradientTransform="rotate(-135 11.314 4.686) scale(22.6274)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#EE0180"/>
-      <stop offset=".502" stop-color="#FF4824"/>
-      <stop offset="1" stop-color="#EE0180"/>
-    </radialGradient>
-    <clipPath id="a">
-      <path fill="#fff" d="M0 0h32v32H0z"/>
-    </clipPath>
-  </defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none" viewBox="0 0 32 32"><defs><radialGradient id="b" cx="0" cy="0" r="1" gradientTransform="rotate(-135 11.314 4.686) scale(22.6274)" gradientUnits="userSpaceOnUse"><stop stop-color="#EE0180"/><stop offset=".502" stop-color="#FF4824"/><stop offset="1" stop-color="#EE0180"/></radialGradient></defs><mask id="a" width="32" height="32" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha"><path fill="#000" d="M16 0c12.357 0 16 3.643 16 16s-3.643 16-16 16S0 28.357 0 16 3.643 0 16 0Z"/></mask><g mask="url(#a)"><path fill="url(#b)" d="M0 0h32v32H0z"/><path fill="#fff" d="M21.11 18.44v1.331h-4.443V18.44h4.444Zm0-3.33h-4.443v1.33h4.444v-1.33Zm0-3.11h-4.443v1.331h4.444V12ZM9.555 16.665v-1.552h-2.89v-1.78h2.89V12h-4.24v7.771h1.35v-3.106h2.89ZM26.444 12h-4.443v1.331h4.444V12Zm0 3.11h-4.443v1.33h4.444v-1.33Zm-4.443 3.33v1.331h4.444V18.44H22Zm-6.29-3.774A2.67 2.67 0 0 0 13.045 12h-2.378v7.771H12v-6.438h1.045a1.335 1.335 0 0 1 0 2.667h-.45l.668 1.324 1.237 2.447h1.336l-1.423-2.816a2.667 2.667 0 0 0 1.298-2.289Z"/></g></svg>

@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none" viewBox="0 0 32 32">
-  <g clip-path="url(#a)">
-    <path fill="#FE5000" d="M3.366 28.634C.911 26.178 0 22.178 0 16S.91 5.822 3.366 3.366C5.822.911 9.822 0 16 0s10.178.91 12.634 3.366C31.089 5.822 32 9.822 32 16s-.91 10.178-3.366 12.634C26.178 31.089 22.178 32 16 32s-10.178-.91-12.634-3.366Z"/>
-    <path fill="#fff" d="M15.182 19.862A5.643 5.643 0 0 1 9.534 25.5a5.644 5.644 0 0 1-5.649-5.638 5.643 5.643 0 0 1 5.649-5.636 5.643 5.643 0 0 1 5.648 5.636ZM17.923 6.5H9.861l10.19 19h8.064l-10.191-19Z"/>
-  </g>
-  <defs>
-    <clipPath id="a">
-      <path fill="#fff" d="M0 0h32v32H0z"/>
-    </clipPath>
-  </defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none" viewBox="0 0 32 32"><mask id="a" width="32" height="32" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha"><path fill="#000" d="M16 0c12.357 0 16 3.643 16 16s-3.643 16-16 16S0 28.357 0 16 3.643 0 16 0Z"/></mask><g mask="url(#a)"><path fill="#FE5000" d="M0 0h32v32H0z"/><path fill="#fff" d="M17.923 6.5H9.861l10.19 19h8.064l-10.191-19ZM9.534 25.505a5.643 5.643 0 1 0 0-11.285 5.643 5.643 0 0 0 0 11.285Z"/></g></svg>
