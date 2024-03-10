@@ -77,6 +77,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | --- | ---- | ----------- | ---------- |
 | Breaker | ![Breaker icon](icons/breaker.svg) | ![Listen on Breaker](badges/breaker-light.svg) | ![Listen on Breaker](badges/breaker-dark.svg) |
 | Google Podcasts | ![Google Podcasts icon](icons/google.svg) | ![Listen on Google Podcasts](badges/google-light.svg) | ![Listen on Google Podcasts](badges/google-dark.svg) |
+| Instacast | ![Instacast icon](icons/instacast.svg) | ![Listen on Instacast](badges/instacast-light.svg) | ![Listen on Instacast](badges/instacast-dark.svg) |
 | iTunes | ![iTunes icon](icons/itunes.svg) | ![Listen on iTunes](badges/itunes-light.svg) | ![Listen on iTunes](badges/itunes-dark.svg) |
 | Podhero | ![Podhero icon](icons/podhero.svg) | ![Listen on Podhero](badges/podhero-light.svg) | ![Listen on Podhero](badges/podhero-dark.svg) |
 | Podvine | ![Podvine icon](icons/podvine.svg) | ![Listen on Podvine](badges/podvine-light.svg) | ![Listen on Podvine](badges/podvine-dark.svg) |
