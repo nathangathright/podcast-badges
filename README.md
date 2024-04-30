@@ -13,7 +13,6 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | Audacy | ![Audacy icon](icons/audacy.svg) | ![Listen on Audacy](badges/audacy-light.svg) | ![Listen on Audacy](badges/audacy-dark.svg) |
 | [Audible](https://www.audible.com/about/newsroom/audible-assets) | ![Audible icon](icons/audible.svg) | ![Listen on Audible](badges/audible-light.svg) | ![Listen on Audible](badges/audible-dark.svg) |
 | Breez | ![Breez icon](icons/breez.svg) | ![Listen on Breez](badges/breez-light.svg) | ![Listen on Breez](badges/breez-dark.svg) |
-| Bullhorn | ![Bullhorn icon](icons/bullhorn.svg) | ![Listen on Bullhorn](badges/bullhorn-light.svg) | ![Listen on Bullhorn](badges/bullhorn-dark.svg) |
 | Castamatic | ![Castamatic icon](icons/castamatic.svg) | ![Listen on Castamatic](badges/castamatic-light.svg) | ![Listen on Castamatic](badges/castamatic-dark.svg) |
 | [Castbox](https://helpcenter.castbox.fm/portal/en/kb/articles/add-castb) | ![Castbox icon](icons/castbox.svg) | ![Listen on Castbox](badges/castbox-light.svg) | ![Listen on Castbox](badges/castbox-dark.svg) |
 | [Castro](https://castro.fm/support/link-to-your-podcast-in-castro) | ![Castro icon](icons/castro.svg) | ![Listen on Castro](badges/castro-light.svg) | ![Listen on Castro](badges/castro-dark.svg) |
@@ -76,6 +75,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | App | Icon | Light Badge | Dark Badge |
 | --- | ---- | ----------- | ---------- |
 | Breaker | ![Breaker icon](icons/breaker.svg) | ![Listen on Breaker](badges/breaker-light.svg) | ![Listen on Breaker](badges/breaker-dark.svg) |
+| Bullhorn | ![Bullhorn icon](icons/bullhorn.svg) | ![Listen on Bullhorn](badges/bullhorn-light.svg) | ![Listen on Bullhorn](badges/bullhorn-dark.svg) |
 | Google Podcasts | ![Google Podcasts icon](icons/google.svg) | ![Listen on Google Podcasts](badges/google-light.svg) | ![Listen on Google Podcasts](badges/google-dark.svg) |
 | Instacast | ![Instacast icon](icons/instacast.svg) | ![Listen on Instacast](badges/instacast-light.svg) | ![Listen on Instacast](badges/instacast-dark.svg) |
 | iTunes | ![iTunes icon](icons/itunes.svg) | ![Listen on iTunes](badges/itunes-light.svg) | ![Listen on iTunes](badges/itunes-dark.svg) |
