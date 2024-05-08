@@ -44,6 +44,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | Podcast Index | ![Podcast Index icon](icons/podcastindex.svg) | ![Listen on Podcast Index](badges/podcastindex-light.svg) | ![Listen on Podcast Index](badges/podcastindex-dark.svg) |
 | Podcast Republic | ![Podcast Republic icon](icons/podcastrepublic.svg) | ![Listen on Podcast Republic](badges/podcastrepublic-light.svg) | ![Listen on Podcast Republic](badges/podcastrepublic-dark.svg) |
 | [Podchaser](https://support.podchaser.com/en/articles/5253592-generating-a-podchaser-badge-for-your-podcast) | ![Podchaser icon](icons/podchaser.svg) | ![Listen on Podchaser](badges/podchaser-light.svg) | ![Listen on Podchaser](badges/podchaser-dark.svg) |
+| Pod Engine | ![Pod Engine icon](icons/podengine.svg) | ![Listen on Pod Engine](badges/podengine-light.svg) | ![Listen on Pod Engine](badges/podengine-dark.svg) |
 | Podfriend | ![Podfriend icon](icons/podfriend.svg) | ![Listen on Podfriend](badges/podfriend-light.svg) | ![Listen on Podfriend](badges/podfriend-dark.svg) |
 | Podimo | ![Podimo icon](icons/podimo.svg) | ![Listen on Podimo](badges/podimo-light.svg) | ![Listen on Podimo](badges/podimo-dark.svg) |
 | Podkicker | ![Podkicker icon](icons/podkicker.svg) | ![Listen on Podkicker](badges/podkicker-light.svg) | ![Listen on Podkicker](badges/podkicker-dark.svg) |
