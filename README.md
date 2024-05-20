@@ -17,6 +17,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | [Castbox](https://helpcenter.castbox.fm/portal/en/kb/articles/add-castb) | ![Castbox icon](icons/castbox.svg) | ![Listen on Castbox](badges/castbox-light.svg) | ![Listen on Castbox](badges/castbox-dark.svg) |
 | [Castro](https://castro.fm/support/link-to-your-podcast-in-castro) | ![Castro icon](icons/castro.svg) | ![Listen on Castro](badges/castro-light.svg) | ![Listen on Castro](badges/castro-dark.svg) |
 | CurioCaster | ![CurioCaster icon](icons/curiocaster.svg) | ![Listen on CurioCaster](badges/curiocaster-light.svg) | ![Listen on CurioCaster](badges/curiocaster-dark.svg) |
+| Deepcast | ![Deepcast icon](icons/deepcast.svg) | ![Listen on Deepcast](badges/deepcast-light.svg) | ![Listen on Deepcast](badges/deepcast-dark.svg) |
 | [Deezer](https://deezerbrand.com/) | ![Deezer icon](icons/deezer.svg) | ![Listen on Deezer](badges/deezer-light.svg) | ![Listen on Deezer](badges/deezer-dark.svg) |
 | Downcast | ![Downcast icon](icons/downcast.svg) | ![Listen on Downcast](badges/downcast-light.svg) | ![Listen on Downcast](badges/downcast-dark.svg) |
 | Fathom | ![Fathom icon](icons/fathom.svg) | ![Listen on Fathom](badges/fathom-light.svg) | ![Listen on Fathom](badges/fathom-dark.svg) |
