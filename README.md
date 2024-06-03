@@ -9,6 +9,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | [Amazon Music](https://podcasters.amazon.com/promotional-tools) | ![Amazon Music icon](icons/amazonmusic.svg) | ![Listen on Amazon Music](badges/amazonmusic-light.svg) | ![Listen on Amazon Music](badges/amazonmusic-dark.svg) |
 | [Antennapod](https://github.com/AntennaPod/Branding) | ![Antennapod icon](icons/antennapod.svg) | ![Listen on Antennapod](badges/antennapod-light.svg) | ![Listen on Antennapod](badges/antennapod-dark.svg) |
 | Anytime Player | ![Anytime Player icon](icons/anytimeplayer.svg) | ![Listen on Anytime Player](badges/anytimeplayer-light.svg) | ![Listen on Anytime Player](badges/anytimeplayer-dark.svg) |
+| Apollo | ![Apollo icon](icons/apollo.svg) | ![Listen on Apollo](badges/apollo-light.svg) | ![Listen on Apollo](badges/apollo-dark.svg) |
 | [Apple Podcasts](https://marketing.services.apple/apple-podcasts-identity-guidelines) | ![Apple Podcasts icon](icons/apple.svg) | ![Listen on Apple Podcasts](badges/apple-light.svg) | ![Listen on Apple Podcasts](badges/apple-dark.svg) |
 | Audacy | ![Audacy icon](icons/audacy.svg) | ![Listen on Audacy](badges/audacy-light.svg) | ![Listen on Audacy](badges/audacy-dark.svg) |
 | [Audible](https://www.audible.com/about/newsroom/audible-assets) | ![Audible icon](icons/audible.svg) | ![Listen on Audible](badges/audible-light.svg) | ![Listen on Audible](badges/audible-dark.svg) |
