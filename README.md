@@ -58,6 +58,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | [Podyssey](https://podyssey.fm/podcast-creators#:~:text=Podyssey%20badge) | ![Podyssey icon](icons/podyssey.svg) | ![Listen on Podyssey](badges/podyssey-light.svg) | ![Listen on Podyssey](badges/podyssey-dark.svg) |
 | Rephonic | ![Rephonic icon](icons/rephonic.svg) | ![Listen on Rephonic](badges/rephonic-light.svg) | ![Listen on Rephonic](badges/rephonic-dark.svg) |
 | RSS | ![RSS icon](icons/rss.svg) | ![Listen on RSS](badges/rss-light.svg) | ![Listen on RSS](badges/rss-dark.svg) |
+| RSSRadio | ![RSSRadio icon](icons/rssradio.svg) | ![Listen on RSSRadio](badges/rssradio-light.svg) | ![Listen on RSSRadio](badges/rssradio-dark.svg) |
 | Samsung Free | ![Samsung Free icon](icons/samsungfree.svg) | ![Listen on Samsung Free](badges/samsungfree-light.svg) | ![Listen on Samsung Free](badges/samsungfree-dark.svg) |
 | SiriusXM | ![SiriusXM icon](icons/siriusxm.svg) | ![Listen on SiriusXM](badges/siriusxm-light.svg) | ![Listen on SiriusXM](badges/siriusxm-dark.svg) |
 | Snipd | ![Snipd icon](icons/snipd.svg) | ![Listen on Snipd](badges/snipd-light.svg) | ![Listen on Snipd](badges/snipd-dark.svg) |
