@@ -38,6 +38,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | Moon FM | ![Moon FM icon](icons/moonfm.svg) | ![Listen on Moon FM](badges/moonfm-light.svg) | ![Listen on Moon FM](badges/moonfm-dark.svg) |
 | [Overcast](https://overcast.fm/podcasterinfo#:~:text=Subscribe%20on%20Overcast) | ![Overcast icon](icons/overcast.svg) | ![Listen on Overcast](badges/overcast-light.svg) | ![Listen on Overcast](badges/overcast-dark.svg) |
 | [Pandora](https://developer.pandora.com/docs/developer-resources/brand-assets/) | ![Pandora icon](icons/pandora.svg) | ![Listen on Pandora](badges/pandora-light.svg) | ![Listen on Pandora](badges/pandora-dark.svg) |
+| Playapod | ![Playapod icon](icons/playapod.svg) | ![Listen on Playapod](badges/playapod-light.svg) | ![Listen on Playapod](badges/playapod-dark.svg) |
 | Player FM | ![Player FM icon](icons/playerfm.svg) | ![Listen on Player FM](badges/playerfm-light.svg) | ![Listen on Player FM](badges/playerfm-dark.svg) |
 | [Pocket Casts](https://pocketcasts.com/podcast-producers/#link-to-your-podcast) | ![Pocket Casts icon](icons/pocketcasts.svg) | ![Listen on Pocket Casts](badges/pocketcasts-light.svg) | ![Listen on Pocket Casts](badges/pocketcasts-dark.svg) |
 | [Podbean](https://www.podbean.com/site/default/badges) | ![Podbean icon](icons/podbean.svg) | ![Listen on Podbean](badges/podbean-light.svg) | ![Listen on Podbean](badges/podbean-dark.svg) |
