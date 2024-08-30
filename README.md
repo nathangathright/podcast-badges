@@ -55,6 +55,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | Podknife | ![Podknife icon](icons/podknife.svg) | ![Listen on Podknife](badges/podknife-light.svg) | ![Listen on Podknife](badges/podknife-dark.svg) |
 | Podnews | ![Podnews icon](icons/podnews.svg) | ![Listen on Podnews](badges/podnews-light.svg) | ![Listen on Podnews](badges/podnews-dark.svg) |
 | podStation | ![podStation icon](icons/podstation.svg) | ![Listen on podStation](badges/podstation-light.svg) | ![Listen on podStation](badges/podstation-dark.svg) |
+| Podurama | ![Podurama icon](icons/podurama.svg) | ![Listen on Podurama](badges/podurama-light.svg) | ![Listen on Podurama](badges/podurama-dark.svg) |
 | Podverse | ![Podverse icon](icons/podverse.svg) | ![Listen on Podverse](badges/podverse-light.svg) | ![Listen on Podverse](badges/podverse-dark.svg) |
 | [Podyssey](https://podyssey.fm/podcast-creators#:~:text=Podyssey%20badge) | ![Podyssey icon](icons/podyssey.svg) | ![Listen on Podyssey](badges/podyssey-light.svg) | ![Listen on Podyssey](badges/podyssey-dark.svg) |
 | Rephonic | ![Rephonic icon](icons/rephonic.svg) | ![Listen on Rephonic](badges/rephonic-light.svg) | ![Listen on Rephonic](badges/rephonic-dark.svg) |
