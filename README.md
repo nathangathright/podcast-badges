@@ -27,7 +27,6 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | Global Player | ![Global Player icon](icons/globalplayer.svg) | ![Listen on Global Player](badges/globalplayer-light.svg) | ![Listen on Global Player](badges/globalplayer-dark.svg) |
 | [Goodpods](https://goodpods.com/badges) | ![Goodpods icon](icons/goodpods.svg) | ![Listen on Goodpods](badges/goodpods-light.svg) | ![Listen on Goodpods](badges/goodpods-dark.svg) |
 | Hark | ![Hark icon](icons/hark.svg) | ![Listen on Hark](badges/hark-light.svg) | ![Listen on Hark](badges/hark-dark.svg) |
-| Jam | ![Jam icon](icons/jam.svg) | ![Listen on Jam](badges/jam-light.svg) | ![Listen on Jam](badges/jam-dark.svg) |
 | [gPodder](https://gpodder.net/publisher/link/) | ![gPodder icon](icons/gpodder.svg) | ![Listen on gPodder](badges/gpodder-light.svg) | ![Listen on gPodder](badges/gpodder-dark.svg) |
 | [iHeartRadio](https://brand.iheart.com/podcastlogo) | ![iHeartRadio icon](icons/iheartradio.svg) | ![Listen on iHeartRadio](badges/iheartradio-light.svg) | ![Listen on iHeartRadio](badges/iheartradio-dark.svg) |
 | iVoox | ![iVoox icon](icons/ivoox.svg) | ![Listen on iVoox](badges/ivoox-light.svg) | ![Listen on iVoox](badges/ivoox-dark.svg) |
@@ -87,6 +86,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | Google Podcasts | ![Google Podcasts icon](icons/google.svg) | ![Listen on Google Podcasts](badges/google-light.svg) | ![Listen on Google Podcasts](badges/google-dark.svg) |
 | Instacast | ![Instacast icon](icons/instacast.svg) | ![Listen on Instacast](badges/instacast-light.svg) | ![Listen on Instacast](badges/instacast-dark.svg) |
 | iTunes | ![iTunes icon](icons/itunes.svg) | ![Listen on iTunes](badges/itunes-light.svg) | ![Listen on iTunes](badges/itunes-dark.svg) |
+| Jam | ![Jam icon](icons/jam.svg) | ![Listen on Jam](badges/jam-light.svg) | ![Listen on Jam](badges/jam-dark.svg) |
 | Podhero | ![Podhero icon](icons/podhero.svg) | ![Listen on Podhero](badges/podhero-light.svg) | ![Listen on Podhero](badges/podhero-dark.svg) |
 | Podvine | ![Podvine icon](icons/podvine.svg) | ![Listen on Podvine](badges/podvine-light.svg) | ![Listen on Podvine](badges/podvine-dark.svg) |
 | RadioPublic | ![RadioPublic icon](icons/radiopublic.svg) | ![Listen on RadioPublic](badges/radiopublic-light.svg) | ![Listen on RadioPublic](badges/radiopublic-dark.svg) |
