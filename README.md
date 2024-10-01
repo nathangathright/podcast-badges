@@ -52,6 +52,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | Podimo | ![Podimo icon](icons/podimo.svg) | ![Listen on Podimo](badges/podimo-light.svg) | ![Listen on Podimo](badges/podimo-dark.svg) |
 | Podkicker | ![Podkicker icon](icons/podkicker.svg) | ![Listen on Podkicker](badges/podkicker-light.svg) | ![Listen on Podkicker](badges/podkicker-dark.svg) |
 | Podknife | ![Podknife icon](icons/podknife.svg) | ![Listen on Podknife](badges/podknife-light.svg) | ![Listen on Podknife](badges/podknife-dark.svg) |
+| PodLP | ![PodLP icon](icons/podlp.svg) | ![Listen on PodLP](badges/podlp-light.svg) | ![Listen on PodLP](badges/podlp-dark.svg) |
 | Podnews | ![Podnews icon](icons/podnews.svg) | ![Listen on Podnews](badges/podnews-light.svg) | ![Listen on Podnews](badges/podnews-dark.svg) |
 | podStation | ![podStation icon](icons/podstation.svg) | ![Listen on podStation](badges/podstation-light.svg) | ![Listen on podStation](badges/podstation-dark.svg) |
 | Podurama | ![Podurama icon](icons/podurama.svg) | ![Listen on Podurama](badges/podurama-light.svg) | ![Listen on Podurama](badges/podurama-dark.svg) |
