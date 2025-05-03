@@ -9,7 +9,6 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | [Amazon Music](https://podcasters.amazon.com/promotional-tools) | ![Amazon Music icon](icons/amazonmusic.svg) | ![Listen on Amazon Music](badges/amazonmusic-light.svg) | ![Listen on Amazon Music](badges/amazonmusic-dark.svg) |
 | [Antennapod](https://github.com/AntennaPod/Branding) | ![Antennapod icon](icons/antennapod.svg) | ![Listen on Antennapod](badges/antennapod-light.svg) | ![Listen on Antennapod](badges/antennapod-dark.svg) |
 | Anytime Player | ![Anytime Player icon](icons/anytimeplayer.svg) | ![Listen on Anytime Player](badges/anytimeplayer-light.svg) | ![Listen on Anytime Player](badges/anytimeplayer-dark.svg) |
-| Apollo | ![Apollo icon](icons/apollo.svg) | ![Listen on Apollo](badges/apollo-light.svg) | ![Listen on Apollo](badges/apollo-dark.svg) |
 | [Apple Podcasts](https://marketing.services.apple/apple-podcasts-identity-guidelines) | ![Apple Podcasts icon](icons/apple.svg) | ![Listen on Apple Podcasts](badges/apple-light.svg) | ![Listen on Apple Podcasts](badges/apple-dark.svg) |
 | Audacy | ![Audacy icon](icons/audacy.svg) | ![Listen on Audacy](badges/audacy-light.svg) | ![Listen on Audacy](badges/audacy-dark.svg) |
 | [Audible](https://www.audible.com/about/newsroom/audible-assets) | ![Audible icon](icons/audible.svg) | ![Listen on Audible](badges/audible-light.svg) | ![Listen on Audible](badges/audible-dark.svg) |
@@ -61,7 +60,6 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | Rephonic | ![Rephonic icon](icons/rephonic.svg) | ![Listen on Rephonic](badges/rephonic-light.svg) | ![Listen on Rephonic](badges/rephonic-dark.svg) |
 | RSS | ![RSS icon](icons/rss.svg) | ![Listen on RSS](badges/rss-light.svg) | ![Listen on RSS](badges/rss-dark.svg) |
 | RSSRadio | ![RSSRadio icon](icons/rssradio.svg) | ![Listen on RSSRadio](badges/rssradio-light.svg) | ![Listen on RSSRadio](badges/rssradio-dark.svg) |
-| Samsung Free | ![Samsung Free icon](icons/samsungfree.svg) | ![Listen on Samsung Free](badges/samsungfree-light.svg) | ![Listen on Samsung Free](badges/samsungfree-dark.svg) |
 | SiriusXM | ![SiriusXM icon](icons/siriusxm.svg) | ![Listen on SiriusXM](badges/siriusxm-light.svg) | ![Listen on SiriusXM](badges/siriusxm-dark.svg) |
 | Snipd | ![Snipd icon](icons/snipd.svg) | ![Listen on Snipd](badges/snipd-light.svg) | ![Listen on Snipd](badges/snipd-dark.svg) |
 | [Sonnet](https://sonnet.fm/resources) | ![Sonnet icon](icons/sonnet.svg) | ![Listen on Sonnet](badges/sonnet-light.svg) | ![Listen on Sonnet](badges/sonnet-dark.svg) |
@@ -82,6 +80,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 
 | App | Icon | Light Badge | Dark Badge |
 | --- | ---- | ----------- | ---------- |
+| Apollo | ![Apollo icon](icons/apollo.svg) | ![Listen on Apollo](badges/apollo-light.svg) | ![Listen on Apollo](badges/apollo-dark.svg) |
 | Breaker | ![Breaker icon](icons/breaker.svg) | ![Listen on Breaker](badges/breaker-light.svg) | ![Listen on Breaker](badges/breaker-dark.svg) |
 | Bullhorn | ![Bullhorn icon](icons/bullhorn.svg) | ![Listen on Bullhorn](badges/bullhorn-light.svg) | ![Listen on Bullhorn](badges/bullhorn-dark.svg) |
 | Google Podcasts | ![Google Podcasts icon](icons/google.svg) | ![Listen on Google Podcasts](badges/google-light.svg) | ![Listen on Google Podcasts](badges/google-dark.svg) |
@@ -92,4 +91,5 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | Podvine | ![Podvine icon](icons/podvine.svg) | ![Listen on Podvine](badges/podvine-light.svg) | ![Listen on Podvine](badges/podvine-dark.svg) |
 | RadioPublic | ![RadioPublic icon](icons/radiopublic.svg) | ![Listen on RadioPublic](badges/radiopublic-light.svg) | ![Listen on RadioPublic](badges/radiopublic-dark.svg) |
 | Resso | ![Resso icon](icons/resso.svg) | ![Listen on Resso](badges/resso-light.svg) | ![Listen on Resso](badges/resso-dark.svg) |
+| Samsung Free | ![Samsung Free icon](icons/samsungfree.svg) | ![Listen on Samsung Free](badges/samsungfree-light.svg) | ![Listen on Samsung Free](badges/samsungfree-dark.svg) |
 | Stitcher | ![Stitcher icon](icons/stitcher.svg) | ![Listen on Stitcher](badges/stitcher-light.svg) | ![Listen on Stitcher](badges/stitcher-dark.svg) |
