@@ -32,6 +32,7 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | [Listen Notes](https://brand-assets.listennotes.com/) | ![Listen Notes icon](icons/listennotes.svg) | ![Listen on Listen Notes](badges/listennotes-light.svg) | ![Listen on Listen Notes](badges/listennotes-dark.svg) |
 | LN Beats | ![LN Beats icon](icons/lnbeats.svg) | ![Listen on LN Beats](badges/lnbeats-light.svg) | ![Listen on LN Beats](badges/lnbeats-dark.svg) |
 | [Luminary](https://newsroom.luminarypodcasts.com/brandassets) | ![Luminary icon](icons/luminary.svg) | ![Listen on Luminary](badges/luminary-light.svg) | ![Listen on Luminary](badges/luminary-dark.svg) |
+| Metacast | ![Metacast icon](icons/metacast.svg) | ![Listen on Metacast](badges/metacast-light.svg) | ![Listen on Metacast](badges/metacast-dark.svg) |
 | MixerBox | ![MixerBox icon](icons/mixerbox.svg) | ![Listen on MixerBox](badges/mixerbox-light.svg) | ![Listen on MixerBox](badges/mixerbox-dark.svg) |
 | Moon FM | ![Moon FM icon](icons/moonfm.svg) | ![Listen on Moon FM](badges/moonfm-light.svg) | ![Listen on Moon FM](badges/moonfm-dark.svg) |
 | [Overcast](https://overcast.fm/podcasterinfo#:~:text=Subscribe%20on%20Overcast) | ![Overcast icon](icons/overcast.svg) | ![Listen on Overcast](badges/overcast-light.svg) | ![Listen on Overcast](badges/overcast-dark.svg) |
